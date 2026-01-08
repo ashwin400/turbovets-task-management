@@ -1,0 +1,13 @@
+{
+  "name": "@arao-5db7e763-d567-4c90-b836-3ebf57b9cc25/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "22.3.3",
+    "@nx/workspace": "22.3.3",
+    "nx": "22.3.3"
+  }
+}
